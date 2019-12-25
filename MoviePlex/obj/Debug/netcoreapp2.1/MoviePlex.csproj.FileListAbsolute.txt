@@ -1,0 +1,11 @@
+C:\Users\Nikhil's\source\repos\MoviePlex\MoviePlex\bin\Debug\netcoreapp2.1\MoviePlex.dll
+C:\Users\Nikhil's\source\repos\MoviePlex\MoviePlex\bin\Debug\netcoreapp2.1\MoviePlex.deps.json
+C:\Users\Nikhil's\source\repos\MoviePlex\MoviePlex\bin\Debug\netcoreapp2.1\MoviePlex.runtimeconfig.json
+C:\Users\Nikhil's\source\repos\MoviePlex\MoviePlex\bin\Debug\netcoreapp2.1\MoviePlex.runtimeconfig.dev.json
+C:\Users\Nikhil's\source\repos\MoviePlex\MoviePlex\obj\Debug\netcoreapp2.1\MoviePlex.csproj.CoreCompileInputs.cache
+C:\Users\Nikhil's\source\repos\MoviePlex\MoviePlex\obj\Debug\netcoreapp2.1\MoviePlex.AssemblyInfoInputs.cache
+C:\Users\Nikhil's\source\repos\MoviePlex\MoviePlex\obj\Debug\netcoreapp2.1\MoviePlex.AssemblyInfo.cs
+C:\Users\Nikhil's\source\repos\MoviePlex\MoviePlex\obj\Debug\netcoreapp2.1\MoviePlex.dll
+C:\Users\Nikhil's\source\repos\MoviePlex\MoviePlex\obj\Debug\netcoreapp2.1\MoviePlex.pdb
+C:\Users\Nikhil's\source\repos\MoviePlex\MoviePlex\bin\Debug\netcoreapp2.1\MoviePlex.pdb
+C:\Users\Nikhil's\source\repos\MoviePlex\MoviePlex\obj\Debug\netcoreapp2.1\MoviePlex.csprojAssemblyReference.cache
